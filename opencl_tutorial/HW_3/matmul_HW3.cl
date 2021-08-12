@@ -1,5 +1,5 @@
 // HW_3
-
+ 
 __kernel void matmul_HW3 (
 	const int M,
 	const int N,

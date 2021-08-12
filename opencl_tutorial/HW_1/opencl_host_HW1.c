@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
- 
+  
 #ifdef __AyyPPLE__
 #include <OpenCL/opencl.h>
 #else

@@ -4,7 +4,7 @@
 #include <stdbool.h>
 #include <sys/time.h>
 #include <unistd.h>
-
+ 
 #ifdef __APPLE__
 #include <OpenCL/opencl.h>
 #else

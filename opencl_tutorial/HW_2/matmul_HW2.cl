@@ -1,5 +1,5 @@
 // HW_2
-
+ 
 __kernel void matmul_HW2(
 	const int N,
 	const __global float *A,
