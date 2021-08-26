@@ -5,7 +5,6 @@ from tvm import relay
 import time
 
 
-
 # Basic program: Z = X + Y
 x = relay.var("x", shape=(3,), dtype="float16")
 y = relay.var("y", shape=(3,), dtype="float16")
