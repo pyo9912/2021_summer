@@ -3,6 +3,7 @@ from tvm import relay
 import numpy as np
 from tvm.relay.frontend.change_datatype import ChangeDatatype
 
+
 tvm.target.datatype.register("myfloat", 150)
 
 # Set registers
